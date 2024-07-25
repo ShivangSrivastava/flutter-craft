@@ -15,13 +15,12 @@
     "commands": [
       {
         "command": "flutter-craft.init",
-        "title": "FlutterCraft: init FlutterCraft"
+        "title": "FlutterCraft: Initialize Project Structure"
       },
       {
         "command": "flutter-craft.generate",
-        "title": "FlutterCraft : generate"
+        "title": "FlutterCraft: Generate Code for Feature/Layer"
       }
-    
     ]
   },
   "scripts": {
