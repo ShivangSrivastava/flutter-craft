@@ -4,5 +4,5 @@ All notable changes to the "flutter-craft" extension will be documented in this 
 
 ## [0.0.1] - 2024-07-25
 ### Added
-- Initial release of "Your Extension Name".
+- Initial release of "flutter-craft".
 
