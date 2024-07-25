@@ -1,6 +1,8 @@
 {
   "name": "flutter-craft",
   "displayName": "Flutter Craft",
+  "publisher": "ShivangSrivastava",
+  "repository": "https://github.com/ShivangSrivastava/flutter-craft",
   "description": "The Flutter Craft extension for Visual Studio Code streamlines development workflow by effortlessly generating and managing project architecture configurations.",
   "version": "0.0.1",
   "engines": {
