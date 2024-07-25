@@ -76,7 +76,7 @@ Ensure your Flutter project is set up correctly with a valid root path accessibl
 ## Contribution
 
 Contributions to FlutterCraft are welcome!
-For any issues or suggestions, please [open an issue on GitHub](https://github.com/yourusername/flutter-craft/issues).
+For any issues or suggestions, please [open an issue on GitHub](https://github.com/ShivangSrivastava/flutter-craft/issues).
 
 <!-- update: npx vsce package -->
 <!-- extension install -->
