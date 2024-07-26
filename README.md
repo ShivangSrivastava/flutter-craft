@@ -56,16 +56,16 @@ Ensure your Flutter project is set up correctly with a valid root path accessibl
 ## Screenshots
 
 - Open Command Palette
-  ![ Open Command Palette](<https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(1).png?raw=true>)
+  ![ Open Command Palette](https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(1).png?raw=true)
 
 - Run init command
-  ![Run init command](<https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(2).png?raw=true>)
+  ![Run init command](https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(2).png?raw=true)
 - Select Architecture Pattern
-  ![Select Architecture Pattern](<https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(3).png?raw=true>)
+  ![Select Architecture Pattern](https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(3).png?raw=true)
 - Run generate command
-  ![Run generate command](<https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(4).png?raw=true>)
+  ![Run generate command](https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(4).png?raw=true)
 - Enter feature/layer name(fl)
-  ![Enter feature/layer name(fl)](<https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(5).png?raw=true>)
+  ![Enter feature/layer name(fl)](https://github.com/ShivangSrivastava/flutter-craft/blob/master/assets/Screenshot%20(5).png?raw=true)
 
 ## To-Do
 
