@@ -5,6 +5,16 @@
   "repository": "https://github.com/ShivangSrivastava/flutter-craft",
   "description": "The Flutter Craft extension for Visual Studio Code streamlines development workflow by effortlessly generating and managing project architecture configurations.",
   "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "keywords": [
+    "flutter",
+    "folder",
+    "architecture",
+    "structure",
+    "craft",
+    "fluttercraft",
+    "dart"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },
